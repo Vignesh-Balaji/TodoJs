@@ -1,14 +1,5 @@
-# Todo Application using ReactJS and Firebase
 
------
 
-### Account creation:
-
-![Account](doc/images/Account.gif)
-
-### Todo Dashboard:
-
-![Account](doc/images/Todo.gif)
 
 
 ### Application Architecture:
